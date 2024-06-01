@@ -14,7 +14,7 @@ alt="asad-nawaz92" /> </p>
 
 - 🎓 I’m Computer Science student at **Federal Urdu University**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Firebase**
+- 💬 Ask me about **HTML, CSS, JavaScript, Firebase, Tailwind CSS & Bootstrap**
 
 - 📫 How to reach me **asadn7862@gmail.com**
 
@@ -29,7 +29,7 @@ alt="asad-nawaz92" /> </p>
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30"/> </a>
 
