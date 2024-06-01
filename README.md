@@ -10,7 +10,6 @@ alt="asad-nawaz92" /> </p>
 
 #### About Me
 
-<<<<<<< HEAD
 - 🔭 I’m currently learning **ReactJS, NextJS & React Native**
 
 - 🎓 I’m Computer Science student at **Federal Urdu University**
@@ -18,15 +17,6 @@ alt="asad-nawaz92" /> </p>
 - 💬 Ask me about **HTML, CSS, JavaScript, Firebase**
 
 - 📫 How to reach me **asadn7862@gmail.com**
-=======
-- 🌱 I’m Currently Learning **Front End Development**
-- 🎓 I’m a Computer Science Student at **Federal Urdu University Of Arts, Science & Technology, Karachi**
-- 👯 Looking to Collaborate on **Open Source Projects**
-- 🤔 I’m looking for help with **Advanced JavaScript** and **React JS**
-- 💬 Ask me about **HTML, CSS, JavaScript**
-- 📫 How to reach me: [Email](mailto:asadn7862@gmail.com)
-- ⚡ Fun fact: I love coding and solving problems
->>>>>>> 2c388d908dee5d809f27065c8e5e544701d97fa4
 
 ---
 
@@ -74,13 +64,6 @@ alt="asad-nawaz92" /> </p>
 
 ---
 
-<<<<<<< HEAD
-=======
-#### How to Reach Me
-
-- **Email:** [asadn7862@gmail.com](mailto:asadn7862@gmail.com)
-
->>>>>>> 2c388d908dee5d809f27065c8e5e544701d97fa4
 Feel free to check out my repositories and leave a star if you find something useful! ⭐
 
 ---
