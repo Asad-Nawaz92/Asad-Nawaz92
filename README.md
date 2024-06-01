@@ -12,8 +12,6 @@ alt="asad-nawaz92" /> </p>
 
 - 🔭 I’m currently learning **ReactJS, NextJS & React Native**
 
-- 🎓 I’m Computer Science student at **Federal Urdu University**
-
 - 💬 Ask me about **HTML, CSS, JavaScript, Firebase, Tailwind CSS & Bootstrap**
 
 - 📫 How to reach me **asadn7862@gmail.com**
