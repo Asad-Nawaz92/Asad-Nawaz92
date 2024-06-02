@@ -20,8 +20,8 @@ alt="asad-nawaz92" /> </p>
 
 <h3 align="left">About me :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/asad-nawaz-bb520a244/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asad-nawaz-bb520a244/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_asad_nawaz/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_asad_nawaz/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asad-nawaz-bb520a244/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asad-nawaz-bb520a244/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_asad_nawaz/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_asad_nawaz/" height="30" width="40" /></a>
 </p>
 
 ---
