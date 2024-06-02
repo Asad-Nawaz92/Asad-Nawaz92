@@ -1,4 +1,4 @@
-<h1 align="center">Salam👋, I'm Asad Nawaz</h1>
+<h1 align="center">Salam 👋, I'm Asad Nawaz</h1>
 <h3 align="center">I'm a Front-End Developer passionate about building innovative and user-friendly applications with professional scalability.</h3>
 
 <p align="left">
