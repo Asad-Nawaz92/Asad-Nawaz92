@@ -64,10 +64,6 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asad-Nawaz92&theme=dark" alt="asad-nawaz92-streak" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Asad-Nawaz92&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="asad-nawaz92-streak" />
 </p>
 
