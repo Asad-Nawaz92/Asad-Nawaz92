@@ -60,7 +60,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" />
   </a>
 </div>
-<br/>
+
+---
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asad-Nawaz92" alt="asad-nawaz92-streak" />
