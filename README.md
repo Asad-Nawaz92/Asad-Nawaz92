@@ -15,7 +15,7 @@
 
 <h3 align="left"></h3>
 
-- 🔭 I’m currently learning **NextJS & React Native**
+- 🔭 I’m currently learning **MERN Stack Technologies**
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Firebase, Tailwind CSS & Bootstrap**
 - 📫 How to reach me **asadn7862@gmail.com**
 
