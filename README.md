@@ -16,7 +16,7 @@
 <h3 align="left"></h3>
 
 - 🔭 I’m currently learning **Advanced Full-Stack Development**
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS & Bootstrap**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS & Bootstrap**
 - 📫 How to reach me **asadn7862@gmail.com**
 
 ---
