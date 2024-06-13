@@ -1,5 +1,5 @@
 <h1 align="center">Salam 👋, I'm Asad Nawaz</h1>
-<h3 align="center">Front-End Developer passionate about building innovative and user-friendly applications with professional scalability.</h3>
+<h3 align="center">Full-Stack Developer passionate about building innovative and user-friendly applications with professional scalability.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Asad-Nawaz92&color=blueviolet&style=flat" alt="asad-nawaz92" />
@@ -15,8 +15,8 @@
 
 <h3 align="left"></h3>
 
-- 🔭 I’m currently learning **MERN Stack Technologies**
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Firebase, Tailwind CSS & Bootstrap**
+- 🔭 I’m currently learning **Advanced Full-Stack Development**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS & Bootstrap**
 - 📫 How to reach me **asadn7862@gmail.com**
 
 ---
@@ -58,6 +58,15 @@
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="50" height="50" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" />
   </a>
 </div>
 
