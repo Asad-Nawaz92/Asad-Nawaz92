@@ -23,8 +23,10 @@
 
 <h3 align="left">About me :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/asad-nawaz-bb520a244/" title="Asad Nawaz" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>
- <a href="https://www.instagram.com/_asad_nawaz/" title="Instagram" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Instagram" width="30" height="30"/></a>
+<a href="https://www.linkedin.com/in/asad-nawaz-bb520a244/" title="Asad Nawaz" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="50" height="50"/></a>
+ <a href="https://www.instagram.com/_asad_nawaz/" target="_blank" rel="noopener noreferrer">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />
+</a>
 </p>
 
 ---
@@ -50,7 +52,8 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+    alt="javascript" width="50" height="50" />
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50" height="50" />
