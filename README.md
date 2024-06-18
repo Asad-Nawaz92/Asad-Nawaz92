@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Asad-Nawaz92&color=blueviolet&style=flat" alt="asad-nawaz92" />
 </p>
 
-<h3 align="left"></h3>
+<h3 align="left">About me :</h3>
 
 - 🔭 I'm currently immersed in web and app development, specializing in **MERN (MongoDB, Express.js, React.js, Node.js) Stack.**
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS & Bootstrap**
@@ -13,7 +13,7 @@
 
 ---
 
-<h3 align="left">About me :</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/asad-nawaz-bb520a244/" title="Asad Nawaz" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="50" height="50"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/your_instagram_profile/" title="Instagram" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Instagram" width="50" height="50"/></a>
@@ -42,7 +42,8 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
 </a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+    alt="javascript" width="50" height="50" />
 </a>&nbsp;&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50" height="50" />
