@@ -5,14 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=Asad-Nawaz92&color=blueviolet&style=flat" alt="asad-nawaz92" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Asad-Nawaz92" alt="asad-nawaz92" />
-  </a>
-</p>
-
----
-
 <h3 align="left"></h3>
 
 - 🔭 I'm currently immersed in web and app development, specializing in **MERN (MongoDB, Express.js, React.js, Node.js) Stack.**
@@ -75,6 +67,10 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Asad-Nawaz92&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="asad-nawaz92-streak" />
 </p>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asad-Nawaz92&bg_color=020612&color=f5f6fa&line=fbfaf9&point=e39102&area=true&hide_border=true" alt="Asad's github activity graph">
+</a>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Asad-Nawaz92&show_icons=true&locale=en&layout=compact&theme=dark" alt="asad-nawaz92" />
